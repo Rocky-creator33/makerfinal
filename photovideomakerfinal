@@ -1,8 +1,8 @@
 {
-"Ads":"false",
+"Ads":"true",
 "ads_count":0,
-"videoI":"ca-app-pub-3940256099942544/1033173712",
-"videoB":"ca-app-pub-3940256099942544/6300978111",
-"videoN":"ca-app-pub-3940256099942544/2247696110",
-"videoO":"ca-app-pub-3940256099942544/3419835294"
+"videoI":"/21753324030,22780110330/com.photovideomusicmaker.music_Interstitial",
+"videoB":"/21753324030,22780110330/com.photovideomusicmaker.music_Banner",
+"videoN":"/21753324030,22780110330/com.photovideomusicmaker.music_Native",
+"videoO":"/21753324030,22780110330/com.photovideomusicmaker.music_AppOpen"
 }
